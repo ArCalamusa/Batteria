@@ -1,4 +1,4 @@
-# Batteria
+Drum project
 Esercizio in html css e JS ove si riproducono i suoni di una batteria (drum) associati a tastiera e click del mouse con relativi effetti sui pulsanti
 
 👉🏻 DEMO https://65f8a0acb35136168da84e60--effervescent-tanuki-e40e9d.netlify.app/
